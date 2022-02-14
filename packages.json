@@ -14,5 +14,9 @@
 	{
         "package": "dartx",
         "url": "https://github.com/mps9506/dartx"
+    },
+		{
+        "package": "mpsTemplates",
+        "url": "https://github.com/mps9506/mps-Templates"
     }
 ]
