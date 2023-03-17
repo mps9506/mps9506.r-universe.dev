@@ -18,5 +18,8 @@
 		{
         "package": "mpsTemplates",
         "url": "https://github.com/mps9506/mpsTemplates"
-    }
+    },
+		{
+		"package": "quartoYAAC",
+		"url": "https://github.com/mps9506/quartoYAAC"}
 ]
